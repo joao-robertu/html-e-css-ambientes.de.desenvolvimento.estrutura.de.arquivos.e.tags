@@ -1,6 +1,10 @@
 @charset "UTF-8";
 
 body {
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #f6f6f6;
+}
+
+img {
+    width: 20%;
 }
