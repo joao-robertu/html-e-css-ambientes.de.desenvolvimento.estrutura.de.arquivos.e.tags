@@ -5,6 +5,10 @@ body {
     color: #f6f6f6;
 }
 
+.strong {
+    color: #22d4fd;
+}
+
 img {
     width: 20%;
 }
